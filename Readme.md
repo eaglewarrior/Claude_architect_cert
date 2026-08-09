@@ -1,4 +1,4 @@
-Claude Certified Architect – Foundations (CCAR-F)
+# Claude Certified Architect – Foundations (CCAR-F)
 
 D1: stop_reason loop control, subagent isolation, hooks vs prompts for enforcement, Attention Dilution, Stale Context Problem
 
