@@ -9,6 +9,10 @@ D3: the -p flag (single most-tested fact), CLAUDE.md hierarchy trap, plan mode =
 D4: explicit criteria > vague instructions, few-shot's 3 triggers, retry effectiveness boundary
 
 D5: persistent case-facts block (most important D5 pattern), 3 valid vs 2 unreliable escalation triggers, aggregate metrics trap
+# Form :
+https://docs.google.com/forms/d/e/1FAIpQLSctZ8Xf__pu1a7FC-2nOuk40kLMm-8tgM7jdplx2P5bYufQ9A/viewform
+
+I have made this form try and test your knowledge this based on important questions from Opensource question bank
 
 # Extra Notes
 
