@@ -14,6 +14,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSctZ8Xf__pu1a7FC-2nOuk40kLMm-8tgM7jdplx
 
 I have made this form try and test your knowledge this based on important questions from Opensource question bank
 
+- https://claudecertificationguide.com/learn/diagnostic
+- https://claudecertificationguide.com/mock-exam/start
+- https://claudecertificationguide.com/learn
+
+
 # Extra Notes
 
 1. Claude Code hooks are deterministic scripts or commands that run automatically during specific moments in an AI coding assistant's lifecycle, such as before or after a tool runs. They act like programmable middleware to format code, block dangerous commands, or enforce team rules without relying on the AI to choose to run them
