@@ -69,3 +69,9 @@ Agentic loop – the cycle of Claude taking an action (tool call), observing the
 Context management – techniques (compaction, subagents, memory files, retrieval) for keeping the most relevant information in the model's limited context window as work grows.
 
 Safety and guardrails – the policies, classifiers, and design constraints (refusals, permission prompts, content filters) that keep Claude's behavior within intended, safe bounds.
+
+
+#  Claude Certified Architect - Professional 
+https://cert-pro-quest.lovable.app/exam?exam=ccarp&count=58
+
+and questions are attached
